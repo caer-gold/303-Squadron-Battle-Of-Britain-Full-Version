@@ -239,3 +239,6 @@ This repository serves as the official landing page for 303 Squadron: Battle of 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 303 Squadron: Battle of Britain today!**
+
+---
+**Last updated:** 2026-09-06 17:26:07 UTC
