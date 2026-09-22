@@ -241,4 +241,4 @@ This repository serves as the official landing page for 303 Squadron: Battle of 
 **Get the most recent version of 303 Squadron: Battle of Britain today!**
 
 ---
-**Last updated:** 2026-09-22 15:18:26 UTC
+**Last updated:** 2026-09-22 19:25:37 UTC
